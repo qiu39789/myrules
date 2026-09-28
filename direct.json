@@ -2,14 +2,6 @@
     "version": 3,
     "rules": [
         {
-            "domain": [
-                "wryjc.cnemc.cn",
-                "permit.mee.gov.cn",
-                "xd0.com",
-                "xtjjcwxt.cn",
-                "xtjjsafe.com",
-                "xtjjzgxt.com"
-            ],
             "domain_suffix": [
                 ".cnemc.cn",
                 ".mee.gov.cn",
@@ -19,7 +11,7 @@
                 ".xtjjzgxt.com"
             ],
             "ip_cidr": [
-                "111.62.17.195"
+                "111.62.17.195/32"
             ]
         }
     ]
