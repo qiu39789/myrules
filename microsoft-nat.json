@@ -33,7 +33,9 @@
                 "titles.prod.mos.microsoft.com",
                 "substrate.office.com",
                 "graph.microsoft.com",
-                "res.public.onecdn.static.microsoft"
+                "res.public.onecdn.static.microsoft",
+                "fd.api.iris.microsoft.com",
+                "arc.msn.com"
             ]
         }
     ]
