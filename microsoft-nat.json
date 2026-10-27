@@ -2,16 +2,38 @@
     "version": 3,
     "rules": [
         {
-            "domain_suffix": [
-                ".cloud.microsoft",
-                ".static.microsoft",
-                ".usercontent.microsoft",
-                ".microsoftonline.com",
-                ".msauth.net",
-                ".msftauth.net",
-                ".office.com",
-                ".office365.com",
-                ".live.com"
+            "domain": [
+                "admin.microsoft.com",
+                "clients.config.office.net",
+                "services.bingapis.com",
+                "ecs.office.com",
+                "res.cdn.office.net",
+                "browser.events.data.microsoft.com",
+                "teams.microsoft.com",
+                "static2.sharepointonline.com",
+                "login.live.com",
+                "config.edge.skype.com",
+                "fd.api.iris.microsoft.com",
+                "content.lifecycle.office.net",
+                "login.microsoftonline.com",
+                "m365.cloud.microsoft",
+                "connectivity-test.usercontent.microsoft",
+                "connectivity-test.static.microsoft",
+                "outlook.cloud.microsoft",
+                "connectivity-test.cloud.microsoft",
+                "substrate.svc.cloud.microsoft",
+                "chat.svc.m365.cloud.microsoft",
+                "augloop.svc.cloud.microsoft",
+                "cr.m365copilotapp.svc.cloud.microsoft",
+                "m365copilotapp.svc.cloud.microsoft",
+                "copilot.cloud.microsoft",
+                "arc.msn.com",
+                "go.trouter.teams.microsoft.com",
+                "loki.delve.office.com",
+                "titles.prod.mos.microsoft.com",
+                "substrate.office.com",
+                "graph.microsoft.com",
+                "res.public.onecdn.static.microsoft"
             ]
         }
     ]
